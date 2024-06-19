@@ -33,7 +33,7 @@ snaps:
     name: console-conf
     type: app
   -
-    default-channel: latest/stable/strict
+    default-channel: 1.30-strict/stable
     id: EaXqgt1lyCaxKaQCU349mlodBkDCXRcg
     name: microk8s
     type: app
@@ -42,16 +42,16 @@ snaps:
     id: ct1DgtIGBaljdOwomQGMLr8EJcL5pOP1
     name: microceph
     type: app
-timestamp: 2024-06-19T17:06:08+00:00
+timestamp: 2024-06-19T17:07:57+00:00
 sign-key-sha3-384: MiMSiw6i9boi5QCsVeENSFAnTCJTSrT1Ve8tZe1wzLIOEwYI-zhH8t_Y6h-sA1L8
 
-AcLBcwQAAQoAHRYhBLtTTjs7jb8IrejInt0l0HvPgRcdBQJmcxAWAAoJEN0l0HvPgRcd+NYP/0GQ
-gwPK9Ef/9lPJa7fDoPHB8ic3F8AMZFAmbhCqPvrwTY7nwqguajOK9dBLPu5+dXevh08O0hdQbeev
-l4Xmq7G82ATt+DbuAOJdQYVejV43wVy5sah9kti9f30Ln4N3wBqPXVp3zTftEHOFwcesG/eoW1ce
-2cSfTseHK/TRSmHl1NyW7CYyLd/pqYil/6Z7GxVc1cHulmPIQO7ENqHvUdkuJbPY9dHC+vYME189
-Lw2BVB9RZKPN88DZiS1xAhYOm0aakEoYM9LcNUJhKjNwpDbTv/OECKYCzgTVjfKWS/P4ai8OIhZN
-pUbYupz4Aa8OCHhXWpLqwnMXyvNv2aAnWLJIHMQn2VsrGsmzH598gT3l9BZ44/v1rT8uh45q4EjM
-ecn6Ec9U/4PfEb48461W5GJuW6a+tK71rXCt/fYfzRLJuUml2IGMpg8LHWtyA9QG97CdwoikzriO
-nJ5V4RprzMiVKm7MroVx+GjKp5W1Vf00U2+rVszW82DIvWGauKRarAVVE3GRygQbIiD3/7rL/oXD
-h934xEnCVxzfNIcvHIIhuBnPtlDe+njJuuO/8NGSD+i8nlLazE3k1RAx2SJBOfFnZiZ0yqfeQAnN
-ymSOFIDdf2TR/EYsdtO5icnWmw4mXf27z5b4I5w1ZKO4H0vZ31y2VvyLRORJQRW7ILrEp2DU
+AcLBcwQAAQoAHRYhBLtTTjs7jb8IrejInt0l0HvPgRcdBQJmcxB+AAoJEN0l0HvPgRcdWVUP/1zF
+TqcBVt0uQxP9zyAFoqklzlasNUafOWjc5357CzyJ6HZvDWBgVBxR9heOjIU9aFrpQo3DyLUhPYDW
+aLvQ80TcYnCB1EMH+okUAus+Vw1NncVySPQWJ1F3LyierPfcs5jHN+O+Qav1o+N86qxfDUriKelR
+v++nzK+PCWjcKz2bd6AqGfEhlR5y4z3bTp6lMJnsImOU0LdNZ/Ctc4+qRuO6O7YK2U5La+gjQzfX
+1vQ2tgpvvA/n5LcADGb9kD9qWoilz8R+e1165vxc4Snx5qbOviYDfbuVqFtaQfZa/B9NYDrHTzgU
+LgtjWG5wSnQF0KCu4JjzC41/zRerHlH1SYtGyy0Rzbqly8AHaGamQ8Yjddne0I1va9Tqg2zywjDj
+EPrKTezSzS5IYPRb0yg9yPjRP98n6jfspjqy0G1f6f45QtZ9zk68voGtJDuBFLe1tZz6wdm7Lbjv
+JDQUrPgNPlfB1t7sXlVINIMS2It9l9vZk6t/3rDX3IyKnYEXr1ZSu6/7QLXl2pDgvATosaaL9C1E
+GML/o6T4ZJMzzBrwiXZucRH6gsdDCOmuzAHD2NPUuC1mGVS3I8pzqgQlmpmWf3W6zk2yq5DFN28T
+81Lur/HxMk9kom+gP9Xp5rDSjiCtLT70fB9jYWYK79zjE+B2qg/t1nF04JKkyT1K9F+n25iZ
