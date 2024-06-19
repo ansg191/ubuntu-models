@@ -24,6 +24,11 @@ snaps:
     type: base
   -
     default-channel: latest/stable
+    id: amcUKQILKXHHTlmSa7NMdnXSx02dNeeT
+    name: core22
+    type: base
+  -
+    default-channel: latest/stable
     id: DLqre5XGLbDqg9jPtiAhRRjDuPVa5X1q
     name: core20
     type: base
@@ -47,16 +52,16 @@ snaps:
     id: ct1DgtIGBaljdOwomQGMLr8EJcL5pOP1
     name: microceph
     type: app
-timestamp: 2024-06-19T17:11:04+00:00
+timestamp: 2024-06-19T17:13:27+00:00
 sign-key-sha3-384: MiMSiw6i9boi5QCsVeENSFAnTCJTSrT1Ve8tZe1wzLIOEwYI-zhH8t_Y6h-sA1L8
 
-AcLBcwQAAQoAHRYhBLtTTjs7jb8IrejInt0l0HvPgRcdBQJmcxE5AAoJEN0l0HvPgRcdi3UP/16t
-UAz/UkiyPBzVdCHjOfdzeuEmbN/VBQsJ48TOX2YIpH76FYXmcQ7e/Otu61hqDt5IyYpYPJhJUZfK
-xJX03h69S3hpvFBIAOCOs0R9kUQADyRYNxrr5D2VcpCup+1x22ZmDcpBJqy1SXBzmy/ADLToieWF
-wPzrrlSn+gfGU5Bw76sdobQlpyecRjrfeAmjtm8ZJqdmTEEl3CGADmKicrzDezm1PxA5TKXYvnGs
-Cx8F/fqN9tgt29C5asvwGeDibdtDCJVoP2SN3lc/YvGWkRbe1dUpCqkclRtxlg1tGGW6ljIlL2Hp
-kqB2HPemCI3rRgLoqgKHSMwq2gyOfbdL3b343G0WwfrpkiEd1x11DqUeE4FvDTxvPw+NAAuCyGhC
-AsCgI6W+qshj5ZXu9S1dLW9lm0RSvbSeeIIHrcZseVXVw4hv9LVdVhyxWCtVa15PBUOEtKn7PcGQ
-5wACxTy4zBvdR9dnn8/+CHJsXkVgo3GR5BdhlnNbmXae/80XUavX6x86S16VY3rdpB8Xd35Ob0Gc
-3bkw64u1JfLlFOQSwXNulHpnY8pWuq20LVkAhkoO4oKxOF2fy9vUhqIZwKDt4GnckfA+/MaYCxEE
-dXQ0uCYBiZNCedcJ1IWauD5cTpGx8tPBjEj05bZYcJ3Ta71TEHO8BKryCxo4UfIpqyCzikbf
+AcLBcwQAAQoAHRYhBLtTTjs7jb8IrejInt0l0HvPgRcdBQJmcxHFAAoJEN0l0HvPgRcdHJgP/i8S
+ehNFte14hu8tN9/DqMYi9gKut5rZh6rf4DGwX3hHBQHuTrbSevoxoFLbgFUxdd6Wks3PV/+VeZWV
+1GpNt0M0kIVM7cHxnxFLTC2b6lrjFvY7kpYgDeHpcGZl/grnuc91Jk0/ZlCn/Fx0ZInOEJ/PJL8H
+UjJ6lpSiCliV2gzkXZrSLMRvcOSu4/RmHbFchPrdePsO0p/x1mMj60o5blzQDVEb+bgMD4gmDqWQ
+hiNiQXU0h7xpZhzpBiz0jHfzj2/xIo8Z3bc1zcApApYBu0rlSOnaB0cJJCP4h8RrOD/JQM7LEBGR
+tA0yD5I1LAWhDlt/qUTSYfWgorLy99cpNhvhOWv45Iqd1ssFWB8XhJmXfuVuWHPVGFaFdc4odQrK
+Vz0jA1iHxTlzQQe5imMtncK7ihbK+0k70FesObz7YQB2K65yw8RMtORYaFQtSp9N+u+rpr77Jd9X
+E8ZMPKs58iqSw7ydvnLebSDzDVAdcKWeEbN+bIBw43j37pfSBLVtovvpXAkWrwuTYHiMkON70ybj
+1irtTFUtCzCVSD8d07HjSesEvpN+bhhamtm7CZNr5pqaGTVOzL9i0+OeaoegiJRtnHci4tZzIZBH
+duY3Nb0elIxh3jqyizRs/Ztmyn5Er52hfNp3RbwQc7hHuQVIXd0FNdi8T8xzxBoGre1s0M8u
