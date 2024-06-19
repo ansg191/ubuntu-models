@@ -5,7 +5,7 @@
     "architecture": "arm64",
     "authority-id": "HHyBokreSzyyzTU9Hil2ARbkR61ZFSBj",
     "brand-id": "HHyBokreSzyyzTU9Hil2ARbkR61ZFSBj",
-    "timestamp": "2024-06-19T17:07:57+00:00",
+    "timestamp": "2024-06-19T17:11:04+00:00",
     "base": "core24",
     "grade": "signed",
     "snaps": [
@@ -26,6 +26,12 @@
             "type": "base",
             "default-channel": "latest/stable",
             "id": "dwTAh7MZZ01zyriOZErqd1JynQLiOGvM"
+        },
+        {
+            "name": "core20",
+            "type": "base",
+            "default-channel": "latest/stable",
+            "id": "DLqre5XGLbDqg9jPtiAhRRjDuPVa5X1q"
         },
         {
             "name": "snapd",

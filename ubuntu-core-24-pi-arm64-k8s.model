@@ -24,6 +24,11 @@ snaps:
     type: base
   -
     default-channel: latest/stable
+    id: DLqre5XGLbDqg9jPtiAhRRjDuPVa5X1q
+    name: core20
+    type: base
+  -
+    default-channel: latest/stable
     id: PMrrV4ml8uWuEUDBT8dSGnKUYbevVhc4
     name: snapd
     type: snapd
@@ -42,16 +47,16 @@ snaps:
     id: ct1DgtIGBaljdOwomQGMLr8EJcL5pOP1
     name: microceph
     type: app
-timestamp: 2024-06-19T17:07:57+00:00
+timestamp: 2024-06-19T17:11:04+00:00
 sign-key-sha3-384: MiMSiw6i9boi5QCsVeENSFAnTCJTSrT1Ve8tZe1wzLIOEwYI-zhH8t_Y6h-sA1L8
 
-AcLBcwQAAQoAHRYhBLtTTjs7jb8IrejInt0l0HvPgRcdBQJmcxB+AAoJEN0l0HvPgRcdWVUP/1zF
-TqcBVt0uQxP9zyAFoqklzlasNUafOWjc5357CzyJ6HZvDWBgVBxR9heOjIU9aFrpQo3DyLUhPYDW
-aLvQ80TcYnCB1EMH+okUAus+Vw1NncVySPQWJ1F3LyierPfcs5jHN+O+Qav1o+N86qxfDUriKelR
-v++nzK+PCWjcKz2bd6AqGfEhlR5y4z3bTp6lMJnsImOU0LdNZ/Ctc4+qRuO6O7YK2U5La+gjQzfX
-1vQ2tgpvvA/n5LcADGb9kD9qWoilz8R+e1165vxc4Snx5qbOviYDfbuVqFtaQfZa/B9NYDrHTzgU
-LgtjWG5wSnQF0KCu4JjzC41/zRerHlH1SYtGyy0Rzbqly8AHaGamQ8Yjddne0I1va9Tqg2zywjDj
-EPrKTezSzS5IYPRb0yg9yPjRP98n6jfspjqy0G1f6f45QtZ9zk68voGtJDuBFLe1tZz6wdm7Lbjv
-JDQUrPgNPlfB1t7sXlVINIMS2It9l9vZk6t/3rDX3IyKnYEXr1ZSu6/7QLXl2pDgvATosaaL9C1E
-GML/o6T4ZJMzzBrwiXZucRH6gsdDCOmuzAHD2NPUuC1mGVS3I8pzqgQlmpmWf3W6zk2yq5DFN28T
-81Lur/HxMk9kom+gP9Xp5rDSjiCtLT70fB9jYWYK79zjE+B2qg/t1nF04JKkyT1K9F+n25iZ
+AcLBcwQAAQoAHRYhBLtTTjs7jb8IrejInt0l0HvPgRcdBQJmcxE5AAoJEN0l0HvPgRcdi3UP/16t
+UAz/UkiyPBzVdCHjOfdzeuEmbN/VBQsJ48TOX2YIpH76FYXmcQ7e/Otu61hqDt5IyYpYPJhJUZfK
+xJX03h69S3hpvFBIAOCOs0R9kUQADyRYNxrr5D2VcpCup+1x22ZmDcpBJqy1SXBzmy/ADLToieWF
+wPzrrlSn+gfGU5Bw76sdobQlpyecRjrfeAmjtm8ZJqdmTEEl3CGADmKicrzDezm1PxA5TKXYvnGs
+Cx8F/fqN9tgt29C5asvwGeDibdtDCJVoP2SN3lc/YvGWkRbe1dUpCqkclRtxlg1tGGW6ljIlL2Hp
+kqB2HPemCI3rRgLoqgKHSMwq2gyOfbdL3b343G0WwfrpkiEd1x11DqUeE4FvDTxvPw+NAAuCyGhC
+AsCgI6W+qshj5ZXu9S1dLW9lm0RSvbSeeIIHrcZseVXVw4hv9LVdVhyxWCtVa15PBUOEtKn7PcGQ
+5wACxTy4zBvdR9dnn8/+CHJsXkVgo3GR5BdhlnNbmXae/80XUavX6x86S16VY3rdpB8Xd35Ob0Gc
+3bkw64u1JfLlFOQSwXNulHpnY8pWuq20LVkAhkoO4oKxOF2fy9vUhqIZwKDt4GnckfA+/MaYCxEE
+dXQ0uCYBiZNCedcJ1IWauD5cTpGx8tPBjEj05bZYcJ3Ta71TEHO8BKryCxo4UfIpqyCzikbf
