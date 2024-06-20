@@ -41,7 +41,6 @@ snaps:
     default-channel: 24/stable
     id: ASctKBEHzVt3f1pbZLoekCvcigRjtuqw
     name: console-conf
-    presence: optional
     type: app
   -
     default-channel: 1.30-strict/edge
@@ -53,16 +52,16 @@ snaps:
     id: ct1DgtIGBaljdOwomQGMLr8EJcL5pOP1
     name: microceph
     type: app
-timestamp: 2024-06-20T01:21:15+00:00
+timestamp: 2024-06-19T19:45:56+00:00
 sign-key-sha3-384: MiMSiw6i9boi5QCsVeENSFAnTCJTSrT1Ve8tZe1wzLIOEwYI-zhH8t_Y6h-sA1L8
 
-AcLBcwQAAQoAHRYhBLtTTjs7jb8IrejInt0l0HvPgRcdBQJmc4UjAAoJEN0l0HvPgRcdQfcP/2ny
-qscdrD+Z/ZtaChB1YCiEW7WjsPs3H2VfBUvghCIfUCfn+TXuioI8D3djukqcWKos/42BkVGuWoEn
-zsgvW6CWY45XB94/CX+HLPT4NPtkA9nxzrOj46TmJQKbuQRgGpbflBgiUh5BP0iOmUG/3WGP4iwf
-knrZUuyMlr3oziWZ85LQTPgzIXEC+o7OgC/hAgggvSgJCo1wZfN3Ri1Bx4zrArXVCBE0cqmnnyJr
-J6CgPuFMaIafHPwyJs8fIkDEcMnFSeWrzH4qv8jad9xWFzSsXXQQlfrjgRm0bFgk2hkq9WVmDTwh
-l+MaSQpk+MB+7rq+BA6fi7cgDTyhgtjJxXjYfgaau20+KNPRd6F/75Jnfm+032qtXZcZNfglSySI
-iu/Iytnggjw4aLZzeqHmrIbAZhb1wTJppxtVgklnfTT6owqADPzOUv3IQf2nQt14kC5XG/CbLk8J
-vZvbTGLisGe46j18XKqNjYL19cMS8kpwe/r2PQXg9ZL4h/WaxVoT6XmhSSTw0xGqWqQHy6lAQwVM
-moGerI8YjXOEf15PpBF7Mu1UNqLzkTfBtBS6FeyxFW021Jg72Ovtg477iLehJGFc0c1+9LwH5LhC
-r6udVJMbCpSzbfqhpyNb/mC5DTZkrNOF6LeQaQG+pGDj3lRlCP3aHd72AQTrpasStuOemcXy
+AcLBcwQAAQoAHRYhBLtTTjs7jb8IrejInt0l0HvPgRcdBQJmczWMAAoJEN0l0HvPgRcdshcP/3r5
+Qe1mRJcuEBGfyoXPNWdFnEn7QQui9zfgeW0MYCymvYgXfQgXasixZ+LQjtm21IaqFb05D+cZdiRg
+UMjeOBvj914K5ULmDx2FKaxoBqApGg1Wtb2EicTx8qA+fk4QLOHgxj2GkumaXOhvRPf/H2Q4Bm2o
+NXw6ISw86HKhbLN+AJiNlC3l8eAA7WevbNsNYxL5LqL6LQLW2jfivzGnwrHF4PlT9yN8yD9tcNi8
+e/0wm9fEa96SBoR3qlxjz86/IcWG8m9o/F5YfkD/YYF9pSMEpA7ojkqTAUsZU4WBDIbe/FBM14lT
+fvZ984oHcAUJ7kx+8t9fJcRh3Li+bQCeXWKJVd0/Q4lyfUfprwzQbIWq9f7U7HeThzVNwJsFbjsc
+9ww2vlWQpz6gRdIIassJeKfgT+b9sKv+1CRIgj/HlelJhv1G3cGCfsqlDlu+hmf4DE3OYiIU+i8A
+m24ruXFQPJFvtot+AnAAQ7ZoKjM1qGU0GoqryoaxEu3WBStwbne7zXk5CG2tKnEXmslmArQC22TI
+F+1VXBa4deGJlC/ducHKIbmJ0Lw7W7JZyp88Wq04ZoGBL6sF27KVPjSFMi6jfls5COoiu4vjZaCD
+br/6Ns0f7SZ7lsLsbBBotlrqDZMqiETM30dycC6rUPa3DVmt3Dt3tY1qcDf2R2+PnbSKZrc2
