@@ -48,20 +48,20 @@ snaps:
     name: microk8s
     type: app
   -
-    default-channel: latest/stable
-    id: ct1DgtIGBaljdOwomQGMLr8EJcL5pOP1
-    name: microceph
+    default-channel: 24/stable
+    id: dVK2PZeOLKA7vf1WPCap9F8luxTk9Oll
+    name: avahi
     type: app
-timestamp: 2024-06-19T19:45:56+00:00
+timestamp: 2024-06-20T19:24:42+00:00
 sign-key-sha3-384: MiMSiw6i9boi5QCsVeENSFAnTCJTSrT1Ve8tZe1wzLIOEwYI-zhH8t_Y6h-sA1L8
 
-AcLBcwQAAQoAHRYhBLtTTjs7jb8IrejInt0l0HvPgRcdBQJmczWMAAoJEN0l0HvPgRcdshcP/3r5
-Qe1mRJcuEBGfyoXPNWdFnEn7QQui9zfgeW0MYCymvYgXfQgXasixZ+LQjtm21IaqFb05D+cZdiRg
-UMjeOBvj914K5ULmDx2FKaxoBqApGg1Wtb2EicTx8qA+fk4QLOHgxj2GkumaXOhvRPf/H2Q4Bm2o
-NXw6ISw86HKhbLN+AJiNlC3l8eAA7WevbNsNYxL5LqL6LQLW2jfivzGnwrHF4PlT9yN8yD9tcNi8
-e/0wm9fEa96SBoR3qlxjz86/IcWG8m9o/F5YfkD/YYF9pSMEpA7ojkqTAUsZU4WBDIbe/FBM14lT
-fvZ984oHcAUJ7kx+8t9fJcRh3Li+bQCeXWKJVd0/Q4lyfUfprwzQbIWq9f7U7HeThzVNwJsFbjsc
-9ww2vlWQpz6gRdIIassJeKfgT+b9sKv+1CRIgj/HlelJhv1G3cGCfsqlDlu+hmf4DE3OYiIU+i8A
-m24ruXFQPJFvtot+AnAAQ7ZoKjM1qGU0GoqryoaxEu3WBStwbne7zXk5CG2tKnEXmslmArQC22TI
-F+1VXBa4deGJlC/ducHKIbmJ0Lw7W7JZyp88Wq04ZoGBL6sF27KVPjSFMi6jfls5COoiu4vjZaCD
-br/6Ns0f7SZ7lsLsbBBotlrqDZMqiETM30dycC6rUPa3DVmt3Dt3tY1qcDf2R2+PnbSKZrc2
+AcLBcwQAAQoAHRYhBLtTTjs7jb8IrejInt0l0HvPgRcdBQJmdIIRAAoJEN0l0HvPgRcddQoP/1tU
+CeP04YDJd+puvwVmIFLa3n1CQ3Ko0q1NCmtAlgBS1096XFFdt3PQvxTGkQKNLnljNnQXmRMgR0H+
+4vaqBoUS8RONq364nW1ax9xHEC4WmQ/uS1umWT/T5RFYVbUNc9YPP15caDvRngiOcAbl5Su2+MSV
+jjfb3a2LD+WGPL2dOEeKcuEmpKqsrqDh8YcAG3RMJu/9wLX6lH3tf+SY85NDwIP1Hdd+viW0Dt4T
+yevCw8G3KTAcaRMVOg7NvBpvkGGfVYtU5k06uGz1bQ5rawj93ylCvaw7BtWklKPrVBDLgw8XKVD4
+AmGeDQ8LRTV2oD+AKs4chwTOVgwMPEiwe9sXwujYHvqL9GGibZD0xs9/GNPTZqGXkiS6l4N3PXrK
+/xwVir2SAaZrsBIE3HA3S+W76kix/zmATRm2dTBr5tYK5nxu35+EMQL/5aSUbcwDqtMdaqlvECT5
+5qfXPKk0MsRPJ3ngK5SCDK+PuGzgB+GKOP8XNLjzS5lZx8rrlEojnsLgQG34udmCqkNeVlQ35ftE
+ZAL6pkS1Brn9pvnupYIkeQL503RgINfTjd4ZbGlaitHUqyN6dvlQzp4tZ2Awr8XXEu9edcYzyrF8
+NxEByEA83XI6HXWZjQ4pgE/QAEllRnsa/u6V58wwufTtMZ6dJdckegA2DTG3su9De+1Yguwh
